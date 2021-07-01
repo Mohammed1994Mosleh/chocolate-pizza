@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+header{
+}
+
+
+/* #iddiv{
+    display: inline-blo;
+} */
+.h2div{
+    color:#454545;
+    display: inline-block;
+    margin-top: 0%;
+    font-family: 'Funkydori', cursive;
+
+}
+#pfont{
+    font-style: italic;
+}
+
+#imgdiv{
+    width: 100px;
+margin-bottom: 0;}
+#pfont{
+    font-size: 10px;
+}
+#secflo{
+    float: left;
+}
+#sec2{
+    clear: left;
+    /* float: right; */
+    
+    text-align: end;
+    margin-top: 10px;
+
+    
+}
+#div2{
+    /* clear: right; */
+    height: 20px;
+    background-color: #ebebeb;
+}
+#choco h1{
+    color: #4f4338;
+}
+#post h5{
+color:#DDDDDD ;
+margin-top: 0px;
+}
+#prin{
+    display: inline-block;
+}
+#post{
+    float: left;
+}
+#sec3{
+    text-align: end;
+}
