@@ -37,10 +37,11 @@ margin-bottom: 0;}
 
     
 }
-#div2{
+.div2{
     /* clear: right; */
     height: 20px;
     background-color: #ebebeb;
+    margin-top: 20px;
 }
 #choco h1{
     color: #4f4338;
@@ -57,4 +58,54 @@ margin-top: 0px;
 }
 #sec3{
     text-align: end;
+}
+#ar{
+    width: 75%;
+    margin: auto;
+}
+#sec5{
+    width: 75%;
+}
+#sec6{
+    background-image: url("../images/list-bg.png");
+
+}
+#check1{
+    display: inline-block;
+    width: 50%;
+    margin-left: 40px;
+}
+#check2{
+    display: inline-block;
+}
+#div3{
+    /* display: inline-block; */
+}
+.vanes{
+    display: inline-block
+}
+#button1{
+    
+    margin-left: 100px;
+    }
+
+#div6{
+text-align: center;
+margin-top: 70px;
+}
+
+h5{
+    color: #cbbcb0;
+}
+.vanes p{
+    color: #bbc2c3;
+}
+#div6 p{
+    color: #bbc2c3;
+}
+#button2{
+    background-color: #bc7058;
+    color: white;
+    width: 150px;
+    height: 40px;
 }
